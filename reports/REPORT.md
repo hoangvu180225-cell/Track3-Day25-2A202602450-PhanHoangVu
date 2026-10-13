@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Phan Hoàng Vũ  **MSV:** 2A202602450  **Commit:** a3f9ce7078c14d183ed1e95d311a2df59bc86855  **Điểm tự động (`make grade`):** 84 / 88 (84/84 public + 4 điểm dữ liệu ẩn của giảng viên)
+**Họ tên / nhóm:** Phan Hoàng Vũ  **MSV:** 2A202602450  **Commit:** d10de1d3715e718759c822a766c7214e5098d828  **Điểm tự động (`make grade`):** 84 / 88 (84/84 public + 4 điểm dữ liệu ẩn của giảng viên)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
